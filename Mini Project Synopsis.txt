@@ -1,0 +1,24 @@
+Treasure Crate
+
+The project will solve the problem of organising the clustered data available in different folders in different formats to combine at one place for easy fetching and accessibility
+
+The primary reason to select the project is to fetching and accessing important and crucial data in most time-saving and automated manner.
+
+The main objective of the project is to design a website where the user can upload the data into well organised specified folders and tags and later on can access the data using the same folders and tags in the search box button
+
+The project broaden into storing large amount of data by intergrating AI and Cloud Services such as Amazon AWS. 
+
+User will be prompted to the homepage of the website where he will experience two 
+option.
+1 ) To upload the data
+2) To fetch the uploaded data
+As the user click on the upload button he will be able allowed to upload the data with some description and tags.
+If the user click on fetch button then he will be allowed to write the keywords to fetch the uploaded data
+
+Windows 10 Laptop, Visual Studio Code
+Front-end - HTML, CSS, JavaScript
+Back-end - PHP, MySQL
+
+This problem will contribute in easy storing and accessing of important data
+
+The overall persepective of the project is as in today's life data is the most valuable treasure and every user consumes a high amount of data everyday, so to save the treasure in the most economic way this project can take a long way to solve the problem

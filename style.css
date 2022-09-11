@@ -1,32 +1,29 @@
-.heading{
-    text-align: center;
-    color: black;
-    
+body,html{
+    min-height: 100%;
 }
-.container{
-    background-size: 100 px ;
-    padding: 23em;
+body{
+
     background-image: url("crate.jpg");
     background-repeat: no-repeat;
-    background-position: center;
-    background-repeat: no-repeat;
-    text-align: center;
-    color: black;
+    background-size: cover;
     
-}
-.centered-heading {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+    
 
-body{
-    background-color: black;
+      
 }
 
+.heading{
+    width: 100%;
+    max-width: 960px;
+    font-size: 100px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    font-family:fantasy; 
+    font-family: 'Tangerine', serif;
+    font-size: 200px;
+    text-shadow: 4px 4px 4px rgba(255, 196, 0, 0.804); 
+    margin: 40px auto;
+    text-align: center;
 
-h1{
-    color: blue;
-    font-family:'Times New Roman', Times, serif;
+
 }

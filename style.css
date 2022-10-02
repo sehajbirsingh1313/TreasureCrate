@@ -6,8 +6,6 @@ body{
     background-image: url("crate.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
-    
 
       
 }
@@ -26,4 +24,27 @@ body{
     text-align: center;
 
 
+}
+.upload-button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+label{
+    padding: 16px 48px;
+    border: 3px rgb(226, 208, 7);
+    border-radius: 48px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight:bolder;
+    color: rgb(0, 0, 0);
+}
+label:hover{
+    transform: scale(1.10);
+}
+label.active{
+    color: black;
+}
+label span{
+    font-weight: normal;
 }
